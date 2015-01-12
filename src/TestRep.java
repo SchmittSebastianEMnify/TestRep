@@ -13,8 +13,4 @@ public class TestRep {
   public static void print(String input) {
     System.out.println(input);
   }
-
-  public static void print(String input) {
-    System.out.println(input);
-  }
 }
