@@ -6,6 +6,7 @@ public class TestRep {
     System.out.println("Test Master");
     System.out.println("Test");
     print("Test Feature");
+    print("Test Feature 2");
   }
 
   public static void print(String input) {
