@@ -11,6 +11,7 @@ public class TestRep {
     print("Feature2 Branch Test");
     print("after hotfix");
     print("auto rebase");
+
     hotfixprint("Hotfix");
   }
 
