@@ -16,7 +16,7 @@ public class TestRep {
 
 
   public static void print(String input) {
-    System.out.println(input);
+    System.out.println(input); // print
   }
   
   public static void hotfixprint(String input) {
