@@ -15,7 +15,6 @@ public class TestRep {
     hotfixprint("Hotfix"); //
   }
 
-
   public static void print(String input) {
     System.out.println(input); // print
   }
