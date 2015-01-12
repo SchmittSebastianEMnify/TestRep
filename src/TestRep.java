@@ -14,4 +14,7 @@ public class TestRep {
     System.out.println(input);
   }
 
+  public static void print(String input) {
+    System.out.println(input);
+  }
 }
