@@ -12,7 +12,7 @@ public class TestRep {
     print("after hotfix");
     print("auto rebase");
 
-    hotfixprint("Hotfix");
+    hotfixprint("Hotfix"); //
   }
 
 
