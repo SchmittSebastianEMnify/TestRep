@@ -9,6 +9,8 @@ public class TestRep {
     print("Test Feature 2");
 
     print("Feature2 Branch Test");
+    print("after hotfix");
+    
     hotfixprint("Hotfix");
   }
 
