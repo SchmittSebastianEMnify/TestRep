@@ -13,8 +13,6 @@ public class TestRep {
     print("auto rebase");
 
     hotfixprint("Hotfix"); //
-
-    hotfixprint("mergethis");
   }
 
   public static void print(String input) {
